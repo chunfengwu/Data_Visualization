@@ -74,6 +74,7 @@ The highlighted findings with plots from jupyter notebook are as follows:
 >4.  The median movie Budget is 26 million, 9 million lower then median revenue. 
 
 ![png](./pics/revenue.png) 
+![png](./pics/budget.png)
 
 2. Movie Profitability Analysis by Genre        
 >1.  The top movie genres are Adventure, science fiction, and fantasy. Which means these movie types are most popular in movie theater.  
