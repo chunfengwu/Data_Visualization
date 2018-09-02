@@ -33,7 +33,7 @@ The jupyter file is also available to view in [NBviewer](http://nbviewer.jupyter
         
 ### Data 
 This project used the following four datasets, which are available in  (**Datasource**: [IMDB data]((https://www.kaggle.com/carolzhangdc/imdb-5000))
-And you can check the datasets [**Here**](https://github.com/YuexiSC/data-visualization/tree/master/crunchbase_data_analysis/datasets).
+And you can check the datasets [**Here**](https://github.com/chunfengwu/Data_Visualization/tree/master/IMDB_5000_USA_Movie_Data_Analysis/datasets).
 
 
 |Column Name | Describtion | Example  | 
