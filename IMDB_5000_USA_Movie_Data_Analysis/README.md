@@ -16,11 +16,11 @@ The jupyter file is also available to view in [NBviewer](http://nbviewer.jupyter
 
 >[**3.1. Movie Distribution by County Originated**](#3.1.-Movie-Distribution-by-County-Originated)  
 
->[**3.2. Evolution of Count of Movies Over Year in USA**](#3.2.-Evolution of Count of Movies Over Year in USA)  
+>[**3.2. Evolution of Count of Movies Over Year in USA**](#3.2.-Evolution-of-Count-of-Movies-Over-Year-in-USA)  
 
 >[**3.3. Movie Plot Key Words Analysis**](#3.3.-Movie-Plot-Key-Words-Analysis ) 
 
->[**3.4. Movie Revenue and Budget Distribution**](#3.4.- Movie-Revenue-and-Budget-Distribution) 
+>[**3.4. Movie Revenue and Budget Distribution**](#3.4.-Movie-Revenue-and-Budget-Distribution) 
 
 >[**3.5. Movie Flops and Success by Genre**](#3.5.-Movie-Flops-and-Success-by-Genre ) 
 
@@ -73,7 +73,7 @@ The highlighted findings with plots from jupyter notebook are as follows:
 >3.  Most movies' budget is from 5M to 50M, similar to movie revenue.
 >4.  The median movie Budget is 26 million, 9 million lower then median revenue. 
 
-![png](./pics/output_34_0_copy.png) 
+![png](./pics/revenue.png) 
 
 2. Movie Profitability Analysis by Genre        
 >1.  The top movie genres are Adventure, science fiction, and fantasy. Which means these movie types are most popular in movie theater.  
@@ -81,7 +81,7 @@ The highlighted findings with plots from jupyter notebook are as follows:
 
 
 
-![png](./pics/output_34_0.png)
+![png](./pics/profit_by_genre.png)
 
 
 3. Evolution of Movie Flops Ratio Over Year (USA)   
@@ -89,6 +89,6 @@ The highlighted findings with plots from jupyter notebook are as follows:
 >2. In recent 20 year, the movie flops ratio is around 50%, which mean half movies have lost money. That means movie industry is quite risky.
   
 
-![png](./pics/output_81_0.png)   
+![png](./pics/flops_ratio.png)   
 
 
