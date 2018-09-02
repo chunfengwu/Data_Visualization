@@ -1,7 +1,7 @@
 ## IMDB 5000 USA Movie Data Visualization Analysis 
 
 In order to get a better understanding of the movie industry in US,  I got a dataset from Kaggle and analyzed 5000 records of USA movie data from 1980 to 2015 in terms of movie plot key words analysis, movie revenue and profit evolution, as well as movie flops and success analysis.   
-The jupyter file is also available to view in [NBviewer](http://nbviewer.jupyter.org/github/YuexiSC/data-visualization/blob/master/crunchbase_data_analysis/crunch_base_data_analysis.ipynb):  
+The jupyter file is also available to view in [NBviewer](http://nbviewer.jupyter.org/github/chunfengwu/Data_Visualization/blob/master/IMDB_5000_USA_Movie_Data_Analysis/IMDB_5000_USA_Movie_Data_Visualization_Analysis.ipynb):  
 
 ### Table of Content
 
